@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=UART? NewDesignator=12IN
+Change Net Name : Old Net Name=NetD2_1 New Net Name=Net12IN_3
+Change Net Name : Old Net Name=NetD2_7 New Net Name=Net12IN_2

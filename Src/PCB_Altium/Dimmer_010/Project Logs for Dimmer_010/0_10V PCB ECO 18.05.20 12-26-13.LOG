@@ -1,0 +1,16 @@
+Added Component: Designator=D?(64-LQFP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "IC microcontroller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CoreProcessor"; Value = "Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CoreSize"; Value = "32-Bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/stmicroelectronics/STM32F103RBT6/497-6066-ND/1646341"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MemoryRAM"; Value = "20KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MemoryROM"; Value = "128KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "64-LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103RBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "2...3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC microcontroller, 32-Bit, Cortex-M3, 72MHz, 128KB, 20KB, 2...3.6V, -40...+85°C, 64-LQFP"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=0_10V Member=Component D? IC microcontroller, 32-Bit, Cortex-M3, 72MHz, 128KB, 20KB, 2...3.6V, -40...+85°C, 64-LQFP

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=Z1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=Z1-3
+Removed Pin From Net: NetName=GND Pin=Z1-4
+Change Component Footprint: Designator=Z1 Old Footprint=OSC: 3225 New Footprint=OSC: 5032 -2
+Change Component Comment : Designator=Z1 Old Comment=Crystal, 16MHz, 12pF, ±25ppm, case 3225, -40...+85°C New Comment=Crystal, 10MHz, 20pF, ±30ppm, case 5032, -40...+85°C
+Change component parameters: Designator = "Z1"; Footprint = "OSC: 5032 -2"; UniqueID = "\MFUQJVQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Frequency"; Value = "10MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/FY1000009/FY1000009CT-ND/6043911"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LoadCapacitance"; Value = "20pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case 5032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "FY1000009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeOscilator"; Value = "Crystal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Crystal, 10MHz, 20pF, ±30ppm, case 5032, -40...+85°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=Z1-2
+Added Member To Class: ClassName=0_10V Member=Component GND Connector, 2pin, 2.54mm, 500VAC, 3A

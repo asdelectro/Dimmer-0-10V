@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=X2 Old Footprint=CON: PLS-4 New Footprint=CON: PBD-4 (2.54)
+Change component parameters: Designator = "X2"; Footprint = "CON: PBD-4 (2.54)"; UniqueID = "\FAPRIWTG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""I/O""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbd-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PBD-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"

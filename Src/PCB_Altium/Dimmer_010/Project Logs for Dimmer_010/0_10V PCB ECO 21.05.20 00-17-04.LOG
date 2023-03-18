@@ -1,0 +1,15 @@
+Added Component: Designator=Z1(OSC: 3215)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/epson/FC-135-32.7680KA-A5/SER4103CT-ND/6188447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LoadCapacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case 3215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FC-135 32.7680KA-A5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeOscilator"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Crystal, Frequency, 12.5pF, ±20ppm, case 3215, -40...+85°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=Z1-1
+Added Pin To Net: NetName=NetC3_2 Pin=Z1-2
+Added Member To Class: ClassName=0_10V Member=Component GND Connector, 2pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=0_10V Member=Component Z1 Crystal, Frequency, 12.5pF, ±20ppm, case 3215, -40...+85°C

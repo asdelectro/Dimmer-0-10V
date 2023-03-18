@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=I2C NewDesignator=X1
+Added Pin To Net: NetName=3V Pin=R10-2
+Added Pin To Net: NetName=3V Pin=R12-2
+Added Pin To Net: NetName=3V Pin=SWD-1
+Added Pin To Net: NetName=3V Pin=UART-3

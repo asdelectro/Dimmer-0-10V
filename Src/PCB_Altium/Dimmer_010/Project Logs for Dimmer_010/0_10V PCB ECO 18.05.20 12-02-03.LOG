@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetD1_25 Pin=I/0-1
+Removed Pin From Net: NetName=NetD1_26 Pin=I/0-2
+Removed Pin From Net: NetName=NetD1_27 Pin=I/0-3
+Removed Pin From Net: NetName=NetD1_28 Pin=I/0-4
+Removed Member From Class: ClassName=0_10V Member=I/0
+Added Component: Designator=I01/IO2(CON: PLS-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=IO3/IO4(CON: PLS-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_25 Pin=I01/IO2-1
+Added Pin To Net: NetName=NetD1_26 Pin=I01/IO2-2
+Added Pin To Net: NetName=NetD1_27 Pin=IO3/IO4-1
+Added Pin To Net: NetName=NetD1_28 Pin=IO3/IO4-2
+Added Member To Class: ClassName=0_10V Member=Component I01/IO2 Connector, 2pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=0_10V Member=Component IO3/IO4 Connector, 2pin, 2.54mm, 500VAC, 3A

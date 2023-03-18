@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [0_10V.SchDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 10:38:32 On 21.05.20

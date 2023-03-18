@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=Z1 Old Footprint=OSC: 3215 New Footprint=OSC: 5032 -2
+Change Component Comment : Designator=Z1 Old Comment=Crystal, 32.768kHz, 12.5pF, ±20ppm, case 3215, -40...+85°C New Comment=Crystal, Frequency, 12.5pF, ±20ppm, case 3215, -40...+85°C
+Change component parameters: Designator = "Z1"; Footprint = "OSC: 5032 -2"; UniqueID = "\MFUQJVQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/epson/FC-135-32.7680KA-A5/SER4103CT-ND/6188447"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LoadCapacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case 3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "FC-135 32.7680KA-A5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeOscilator"; Value = "Crystal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Crystal, Frequency, 12.5pF, ±20ppm, case 3215, -40...+85°C"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=0_10V Member=Component GND Connector, 2pin, 2.54mm, 500VAC, 3A

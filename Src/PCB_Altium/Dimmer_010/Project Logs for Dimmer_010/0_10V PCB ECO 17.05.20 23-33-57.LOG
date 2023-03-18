@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=12V Pin=12V IN-1
+Removed Pin From Net: NetName=GND Pin=12V IN-2
+Removed Member From Class: ClassName=0_10V Member=12V IN
+Change Component Designator: OldDesignator=1117 NewDesignator=AMS1117-3.3
+Added Component: Designator=UART?(CON: PLS-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=UART?-1
+Added Pin To Net: NetName=NetD2_7 Pin=UART?-2
+Added Pin To Net: NetName=NetD2_1 Pin=UART?-3
+Added Pin To Net: NetName=GND Pin=UART?-4
+Added Member To Class: ClassName=0_10V Member=Component UART? Connector, 4pin, 2.54mm, 500VAC, 3A
